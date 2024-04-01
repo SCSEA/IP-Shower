@@ -13,7 +13,7 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/Yousuf9963/IP-Shower.git
+git clone https://github.com/SCSEA/IP-Shower.git
 
 cd IP-Shower
 
@@ -23,8 +23,5 @@ pip install --upgrade pip
 
 python3 ip-shower.py
 
-# Please Follow me Thank you...
 
-# Donation
 
-If you want to Donate click here Thamk you.: https://www.buymeacoffee.com/junioprogrammer
